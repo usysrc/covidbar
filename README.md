@@ -1,6 +1,6 @@
 # covidbar
 
-node js bit bar plugin showing corona updates
+node js [bitbar](https://github.com/matryer/bitbar) plugin showing corona updates
 
 # installation
 
